@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ie-home/static/css/main.8aa0a665.chunk.css",
+    "main.js": "/ie-home/static/js/main.1d76c136.chunk.js",
+    "main.js.map": "/ie-home/static/js/main.1d76c136.chunk.js.map",
+    "runtime-main.js": "/ie-home/static/js/runtime-main.3f7f417d.js",
+    "runtime-main.js.map": "/ie-home/static/js/runtime-main.3f7f417d.js.map",
+    "static/css/2.737e53d6.chunk.css": "/ie-home/static/css/2.737e53d6.chunk.css",
+    "static/js/2.bea4bb1c.chunk.js": "/ie-home/static/js/2.bea4bb1c.chunk.js",
+    "static/js/2.bea4bb1c.chunk.js.map": "/ie-home/static/js/2.bea4bb1c.chunk.js.map",
+    "index.html": "/ie-home/index.html",
+    "static/css/2.737e53d6.chunk.css.map": "/ie-home/static/css/2.737e53d6.chunk.css.map",
+    "static/css/main.8aa0a665.chunk.css.map": "/ie-home/static/css/main.8aa0a665.chunk.css.map",
+    "static/js/2.bea4bb1c.chunk.js.LICENSE.txt": "/ie-home/static/js/2.bea4bb1c.chunk.js.LICENSE.txt",
+    "static/media/LOGO draft.864a4d15.svg": "/ie-home/static/media/LOGO draft.864a4d15.svg",
+    "static/media/hero.b3fa7be5.webp": "/ie-home/static/media/hero.b3fa7be5.webp",
+    "static/media/placeholder1.824db356.jpg": "/ie-home/static/media/placeholder1.824db356.jpg",
+    "static/media/ufounders.edaabe7a.svg": "/ie-home/static/media/ufounders.edaabe7a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f7f417d.js",
+    "static/css/2.737e53d6.chunk.css",
+    "static/js/2.bea4bb1c.chunk.js",
+    "static/css/main.8aa0a665.chunk.css",
+    "static/js/main.1d76c136.chunk.js"
+  ]
+}
